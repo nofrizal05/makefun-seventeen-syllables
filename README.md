@@ -1,7 +1,8 @@
 # Seventeen Syllables of Debugging
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
-[![AI Agents](https://img.shields.io/badge/AI-Agents-green)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+[![make.fun · u-irvan-motion-seventeen-syllables-of-debugging-d194b605](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+[![rank](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/nofrizal05/makefun-seventeen-syllables/rank.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+[![reward](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/nofrizal05/makefun-seventeen-syllables/reward.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
 
 An entry for make.fun's **"Seventeen Syllables of Debugging"** bounty
 ($5 — 1st $2 / 2nd $2 / 3rd $1).
